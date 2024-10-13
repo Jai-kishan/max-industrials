@@ -41,3 +41,18 @@ Dev : Jai Kishan
 - Added sub-page of Product --Safety & Rescue
 - Added sub-page of Product --Fire Fighting Equipments
 - Added sub-page of Product --Janitorial & Hygiene Products
+
+
+Title : Verify all pages/images
+Date : 13-Oct-2024
+Dev : Jai Kishan
+- Added missing images of industries banner
+- Deleted extra files
+- updated css | JS | added missing files
+
+
+
+Title : Create Contact Us 
+Date : 13-Oct-2024
+Dev : Jai Kishan
+- Created contact us page
