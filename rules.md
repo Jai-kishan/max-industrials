@@ -55,4 +55,7 @@ Dev : Jai Kishan
 Title : Create Contact Us 
 Date : 13-Oct-2024
 Dev : Jai Kishan
-- Created contact us page
+- Created service pages
+- created sub pages of services --International Procurement & Supply
+- created sub pages of services --Steel Fabrication & Installation
+- created sub pages of services --Heavy Equipment Supply
