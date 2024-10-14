@@ -59,3 +59,16 @@ Dev : Jai Kishan
 - created sub pages of services --International Procurement & Supply
 - created sub pages of services --Steel Fabrication & Installation
 - created sub pages of services --Heavy Equipment Supply
+
+
+## Tasks
+Title : Update Site Details 
+Date : 14-Oct-2024
+Dev : Jai Kishan
+- change the logo
+- update the site name
+- update email and contant number
+- update address
+- Need to update meta data for all
+- update the location on MAP
+- change the all rights reserved by social coder
