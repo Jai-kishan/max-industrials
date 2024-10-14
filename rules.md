@@ -62,6 +62,9 @@ Dev : Jai Kishan
 
 
 ## Tasks
+Title : Update Site Details 
+Date : 14-Oct-2024
+Dev : Jai Kishan
 - change the logo
 - update the site name
 - update email and contant number
